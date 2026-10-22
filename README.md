@@ -38,6 +38,7 @@ Oyna oʻlchami eslab qolinadi. Oʻyin 16:9 nisbatda, 1280×720 dizayn maydonida 
 - Node.js 20+ va npm
 - Rust stable
 - Linux uchun Tauri tizim paketlari (`libwebkit2gtk-4.1-dev`, `build-essential`, `libxdo-dev`, `libayatana-appindicator3-dev`, `librsvg2-dev` va boshqalar)
+- Ovoz uchun `gstreamer1.0-plugins-base` va `gstreamer1.0-plugins-good`; AppImage ularni oʻzi bilan olib keladi, `.deb` esa bogʻliq paket sifatida talab qiladi
 
 ## Ishga tushirish
 
